@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrudul2k
 - 👀 I’m interested in Financial Markets,Blockchain
-- 🌱 I’m currently learning engineering in computer science
+- 🌱 Computer Engineering Graduate
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: mr18yt@gmail.com
 
